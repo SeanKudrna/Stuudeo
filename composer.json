@@ -1,0 +1,10 @@
+{
+    "require": {
+        "sendgrid/sendgrid": "~7"
+      },
+
+      "require": {
+        "cloudinary/cloudinary_php" : "dev-master"
+      }
+
+}
